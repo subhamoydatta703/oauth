@@ -12,7 +12,7 @@ A modern, high-performance authentication system using **Google OAuth 2.0**, **E
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```bash
 authsys_oauth/
