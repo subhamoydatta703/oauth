@@ -1,8 +1,8 @@
-# AuthSys OAuth ⚡
+# AuthSys OAuth 
 
 A modern, high-performance authentication system using **Google OAuth 2.0**, **Express.js**, **Prisma**, and **Vite React**.
 
-## 🌟 Features
+##  Features
 
 - **Google OAuth 2.0**: Secure authentication flow with official Google APIs.
 - **JWT Sessions**: Secure session management using JSON Web Tokens.
@@ -28,7 +28,7 @@ authsys_oauth/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Backend Setup
 
@@ -80,8 +80,4 @@ authsys_oauth/
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Auth**: [Google OAuth 2.0](https://developers.google.com/identity/protocols/oauth2), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 
----
 
-## 📜 License
-
-This project is licensed under the **ISC License**.
